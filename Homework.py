@@ -24,5 +24,4 @@ df['mean'] = (df['A'] + df['B']) / 2
 # In[9]:
 
 
-df
-
+df.describe()
